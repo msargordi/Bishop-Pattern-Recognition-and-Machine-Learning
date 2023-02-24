@@ -1,1 +1,1 @@
-In the repository I am trying to reproduce the example from the book "[Pattern Recognition and Machine Learning](http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf)" by Christopher M. Bishop
+In the repository I am trying to reproduce examples from the book "[Pattern Recognition and Machine Learning](http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf)" by Christopher M. Bishop
